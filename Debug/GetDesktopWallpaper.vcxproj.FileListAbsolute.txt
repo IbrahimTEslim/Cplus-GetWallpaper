@@ -1,0 +1,2 @@
+C:\IbrahimProject\My Projects\GetDesktopWallpaper\Debug\GetDesktopWallpaper.exe
+C:\IbrahimProject\My Projects\GetDesktopWallpaper\Debug\GetDesktopWallpaper.pdb
